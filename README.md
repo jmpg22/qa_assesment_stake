@@ -21,5 +21,6 @@ How to use:
 
 🛠️ Configurations:
 - baseURL located in playwright.config.ts
+- Set in data/testData.json your user and password
 
 That´s all, easy to use :D
