@@ -1,6 +1,7 @@
 # qa_assesment_stake
 
 How to use:
+
 ✅ 1. Clone the project
 - git clone <repository-url>
 - cd <project-folder>
